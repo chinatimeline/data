@@ -141,12 +141,6 @@
           "group" : "建立宣传网站"
         },
               {
-          "name" : "习近平修宪删除任期限制",
-          "description" : "",
-          "time" : "2018 2 25 0 0",
-          "group" : "Iconic Event"
-        },
-              {
           "name" : "少年中国评论(1) youngchina.org",
           "description" : "",
           "time" : "2008 10 21 0 0",
@@ -235,6 +229,12 @@
           "description" : "",
           "time" : "2017 1 21 0 0",
           "group" : "整治自由派社区"
+        },
+              {
+          "name" : "习近平修宪删除任期限制",
+          "description" : "",
+          "time" : "2018 2 25 0 0",
+          "group" : "里程碑事件"
         },
               {
           "name" : "红色中国网 redchinacn.net",

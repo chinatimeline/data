@@ -3,7 +3,12 @@
 最新时间线互动图 [https://chinatimeline.github.io/](https://chinatimeline.github.io/)
 
 **参与：** 欢迎提交PR (Pull Request)
-1. 5分钟了解PR工作流程: [中文视频教程](https://boxueio.com/series/git-essential/episode/459), [文字教程：尝试Pull Request](https://www.jianshu.com/p/dd243fecf0f4), [English Video Tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ), [About pull requests](https://help.github.com/en/articles/about-pull-requests)
+1. 5分钟了解PR工作流程: 
+    * 中文视频(陆)： [泊学](https://boxueio.com/series/git-essential/episode/459), [油管Inty](https://www.youtube.com/watch?v=MBdLOl5tUKY)
+    * [中文视频(台)](https://www.youtube.com/watch?v=pytolws6aiE), 
+    * [文字教程：尝试Pull Request](https://www.jianshu.com/p/dd243fecf0f4) [档案版](https://archive.fo/NZmPb)
+    * [English Video Tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ) 
+    * [About pull requests](https://help.github.com/en/articles/about-pull-requests)
 2. 为避免被喝茶，请用与真实身份脱钩的github帐号
     * 墙内请用VPN+Tor访问: (1)如用本地目录请用[双虚拟机方案](https://program-think.blogspot.com/2013/11/tor-faq.html?m=1), (2)如仅网页编辑请用[Tor Browser](https://www.torproject.org/download/)
     * Github接受的匿名邮箱 [Protonmail](https://protonmail.com), [Tutanota](https://www.tutanota.com). 注册虚拟手机号 [TextNow](https://www.textnow.com)
@@ -53,13 +58,13 @@ date,name,group,description,
 
 中共为控制意识形态采取的各种措施及相关报道，分类如下（欢迎对分类提意见）：
 1. 重大历史事件：具有标志性或里程碑意义、对历史产生重大影响的国内外政治或军事事件
-1. 技术封锁：如GFW、金盾工程、黑客攻击等 （暂时并入“网络空间实名制”）
-2. 网络空间实名制：各类促进网络实名制的行政措施、法律文件、拘留喝茶翻墙网友等
-3. 建立宣传网站：各种宣传中共意识形态的极左网站、论坛、纪录片等
-4. 进驻社交媒体：官方机构开设社交媒体帐号进驻各种互联网平台
-5. 整治自由派社区：官方对自由派媒体、论坛、意见领袖的各种打压行动
-6. 打击学术自由：针对学生、高校教师在高校环境内的迫害、洗脑、打压、处罚、审查、告密等
-7. 干预互联网市场：以行政为主技术为辅的手段对互联网公司的运营进行插手、干扰、处罚等
+2. 技术封锁：如GFW、金盾工程、黑客攻击等 （暂时并入“网络空间实名制”）
+3. 网络空间实名制：各类促进网络实名制的行政措施、法律文件、拘留喝茶翻墙网友等
+4. 建立宣传网站：各种宣传中共意识形态的极左网站、论坛、纪录片等
+5. 进驻社交媒体：官方机构开设社交媒体帐号进驻各种互联网平台
+6. 整治自由派社区：官方对自由派媒体、论坛、意见领袖的各种打压行动
+7. 打击学术自由：针对学生、高校教师在高校环境内的迫害、洗脑、打压、处罚、审查、告密等
+8. 干预互联网市场：以行政为主技术为辅的手段对互联网公司的运营进行插手、干扰、处罚等
 9. (待添加)宗教迫害：为防止宗教思想传播而迫害宗教人士、群体、族群，审查和篡改宗教相关课文、书籍等
 
 本数据初版来自“中共洗脑保党时间线” [https://time.graphics/line/226382](https://time.graphics/line/226382)

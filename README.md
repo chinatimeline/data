@@ -34,7 +34,7 @@
 |2014-10-15|习近平主持召开文艺工作座谈会|网络空间实名制|新闻存档 https://archive.li/tDTZd |
 | 2018-02-27| 苹果中国iCloud转交“云上贵州”运营 | 干预互联网市场 | null |
 
-文字编辑器中为
+文本编辑器(推荐sublime text, atom, notepad++等)中显示为
 ```text
 date,name,group,description,
 2014-10-15,习近平主持召开文艺工作座谈会,网络空间实名制,新闻存档 https://archive.li/tDTZd

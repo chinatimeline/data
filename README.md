@@ -3,7 +3,12 @@
 最新时间线互动图 [https://chinatimeline.github.io/](https://chinatimeline.github.io/)
 
 **参与：** 欢迎提交PR (Pull Request)
-1. 5分钟了解PR工作流程: [中文视频教程](https://boxueio.com/series/git-essential/episode/459), [文字教程：尝试Pull Request](https://www.jianshu.com/p/dd243fecf0f4), [English Video Tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ), [About pull requests](https://help.github.com/en/articles/about-pull-requests)
+1. 5分钟了解PR工作流程: 
+    * 中文视频(陆)： [泊学](https://boxueio.com/series/git-essential/episode/459), [油管Inty](https://www.youtube.com/watch?v=MBdLOl5tUKY)
+    * [中文视频(台)](https://www.youtube.com/watch?v=pytolws6aiE), 
+    * [文字教程：尝试Pull Request](https://www.jianshu.com/p/dd243fecf0f4) [档案版](https://archive.fo/NZmPb)
+    * [English Video Tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ) 
+    * [About pull requests](https://help.github.com/en/articles/about-pull-requests)
 2. 为避免被喝茶，请用与真实身份脱钩的github帐号
     * 墙内请用VPN+Tor访问: (1)如用本地目录请用[双虚拟机方案](https://program-think.blogspot.com/2013/11/tor-faq.html?m=1), (2)如仅网页编辑请用[Tor Browser](https://www.torproject.org/download/)
     * Github接受的匿名邮箱 [Protonmail](https://protonmail.com), [Tutanota](https://www.tutanota.com). 注册虚拟手机号 [TextNow](https://www.textnow.com)

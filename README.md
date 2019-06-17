@@ -8,7 +8,7 @@
     * 墙内请用VPN+Tor访问: (1)如用本地目录请用[双虚拟机方案](https://program-think.blogspot.com/2013/11/tor-faq.html?m=1), (2)如仅网页编辑请用[Tor Browser](https://www.torproject.org/download/)
     * Github接受的匿名邮箱 [Protonmail](https://protonmail.com), [Tutanota](https://www.tutanota.com). 注册虚拟手机号 [TextNow](https://www.textnow.com)
 
-## 目录结构与说明
+## 1 目录结构与说明
 ```bash
 ├── README.md #本文件 数据仓库说明文档
 ├── ideology #中共意识形态保卫战
@@ -19,7 +19,7 @@
     ├── Persidential_Term.csv #美中领导人任期（图中背景区块）
     └── TradeWar_Events.csv #贸易战相关事件数据文件
 ```
-数据格式说明
+### 1.1 数据格式说明
 
 | date | name | group | description |
 |---|---|---|---|
@@ -37,7 +37,8 @@ date,name,group,description,
 ```
 所以应尽量避免标题出现英文字符`,`
 
-#### 文件夹 ideology
+### 2 数据信息
+#### 2.1 文件夹 ideology
 
 中共为控制意识形态采取的各种措施及相关报道，分类如下（欢迎对分类提意见）：
 1. 重大历史事件：具有标志性或里程碑意义、对历史产生重大影响的国内外政治或军事事件
@@ -55,8 +56,12 @@ date,name,group,description,
 <!--![CPC Brainwashing Timeline](https://i.imgur.com/1xup0nr.png | width=50x)-->
 <img src="https://i.imgur.com/1xup0nr.png" width="250">
 
-#### 文件夹 US_CN_TradeWar
+#### 2.2 文件夹 US_CN_TradeWar
 
 数据源: [The US China Trade War: A Timeline](https://www.china-briefing.com/news/the-us-china-trade-war-a-timeline/)
 
 参考 [Bloomberg](https://www.bloomberg.com/news/articles/2019-01-30/u-s-china-trade-war-timeline-what-s-happened-and-what-s-next)
+
+---
+[MIT License](https://opensource.org/licenses/MIT) |
+Update: 2019-06-18

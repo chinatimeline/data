@@ -37,8 +37,8 @@ date,name,group,description,
 ```
 所以应尽量避免标题出现英文字符`,`
 
-### 2 数据信息
-#### 2.1 文件夹 ideology
+### 1.2 数据信息
+#### 1.2.1 文件夹 ideology
 
 中共为控制意识形态采取的各种措施及相关报道，分类如下（欢迎对分类提意见）：
 1. 重大历史事件：具有标志性或里程碑意义、对历史产生重大影响的国内外政治或军事事件
@@ -56,7 +56,7 @@ date,name,group,description,
 <!--![CPC Brainwashing Timeline](https://i.imgur.com/1xup0nr.png | width=50x)-->
 <img src="https://i.imgur.com/1xup0nr.png" width="250">
 
-#### 2.2 文件夹 US_CN_TradeWar
+#### 1.2.2 文件夹 US_CN_TradeWar
 
 数据源: [The US China Trade War: A Timeline](https://www.china-briefing.com/news/the-us-china-trade-war-a-timeline/)
 

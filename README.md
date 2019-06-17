@@ -4,8 +4,8 @@
 
 **参与：** 欢迎提交PR (Pull Request)
 1. 5分钟了解PR工作流程: 
-    * 中文视频(陆)： [泊学](https://boxueio.com/series/git-essential/episode/459), [油管Inty](https://www.youtube.com/watch?v=MBdLOl5tUKY)
-    * [中文视频(台)](https://www.youtube.com/watch?v=pytolws6aiE), 
+    * 中文视频(陆)： [泊学-在GitHub创建和处理PR](https://boxueio.com/series/git-essential/episode/459), [油管Inty](https://www.youtube.com/watch?v=MBdLOl5tUKY)
+    * [中文视频(台)](https://www.youtube.com/watch?v=pytolws6aiE)
     * [文字教程：尝试Pull Request](https://www.jianshu.com/p/dd243fecf0f4) [档案版](https://archive.fo/NZmPb)
     * [English Video Tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ) 
     * [About pull requests](https://help.github.com/en/articles/about-pull-requests)

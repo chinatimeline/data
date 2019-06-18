@@ -85,6 +85,13 @@ date,name,group,description,
 
 参考 [Bloomberg](https://www.bloomberg.com/news/articles/2019-01-30/u-s-china-trade-war-timeline-what-s-happened-and-what-s-next)
 
+## 参考新闻源
+* 搜索引擎 [Google](https://google.com), [Startpage.com](https://startpage.com), [DuckDuckGo](https://duckduckgo.com/)
+* [中国数字时代](https://chinadigitaltimes.net/chinese/)
+* wikipedia的中国历史年表:[2008](https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86),[2009](https://zh.wikipedia.org/wiki/2009%E5%B9%B4%E4%B8%AD%E5%9B%BD),[2010](https://zh.wikipedia.org/wiki/2010%E5%B9%B4%E4%B8%AD%E5%9C%8B),[2011](https://zh.wikipedia.org/wiki/2011%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86),[2012](https://zh.wikipedia.org/wiki/2012%E5%B9%B4%E4%B8%AD%E5%9C%8B),[2013](https://zh.wikipedia.org/wiki/2013%E5%B9%B4%E4%B8%AD%E5%9B%BD),[2014](https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E4%B8%AD%E5%9C%8B),[2015](https://zh.wikipedia.org/wiki/2015%E5%B9%B4%E4%B8%AD%E5%9C%8B),[2016](https://zh.wikipedia.org/wiki/2016%E5%B9%B4%E4%B8%AD%E5%9B%BD),[2017](https://zh.wikipedia.org/wiki/2017%E5%B9%B4%E4%B8%AD%E5%9B%BD),[2018](https://zh.wikipedia.org/wiki/2018%E5%B9%B4%E4%B8%AD%E5%9B%BD)
+* 西方各大媒体
+* 中国官媒，政府网站
+
 ---
 [MIT License](https://opensource.org/licenses/MIT) |
 Update: 2019-06-18

@@ -74,10 +74,10 @@ date,name,group,description,
 8. 干预互联网市场：以行政为主技术为辅的手段对互联网公司的运营进行插手、干扰、处罚等
 9. (待添加)宗教迫害：为防止宗教思想传播而迫害宗教人士、群体、族群，审查和篡改宗教相关课文、书籍等
 
-本数据初版来自“中共洗脑保党时间线” [https://time.graphics/line/226382](https://time.graphics/line/226382)
-
+#### 1.2.2 数据来源
+1. 本数据初版来自“中共洗脑保党时间线” [https://time.graphics/line/226382](https://time.graphics/line/226382)，<img src="https://i.imgur.com/1xup0nr.png" width="250">
 <!--![CPC Brainwashing Timeline](https://i.imgur.com/1xup0nr.png | width=50x)-->
-<img src="https://i.imgur.com/1xup0nr.png" width="250">
+2. GFW的前世今生 [阅后即焚 (archive)](https://web.archive.org/web/20170923114736/http://www.chinagfw.org/2009/08/gfw_30.html)
 
 #### 1.2.2 文件夹 US_CN_TradeWar
 

@@ -43,8 +43,8 @@ Redditer可直接前往[r/chinatimeline](https://www.reddit.com/r/chinatimeline/
 
 
 | date | name | group | impact | description |
-|---|---|---|---|
-|2014-10-15|习近平主持召开文艺工作座谈会|网络空间实名制|5|新闻存档 https://archive.li/tDTZd |
+|---|---|---|---|---|
+| 2014-10-15| 习近平主持召开文艺工作座谈会 | 网络空间实名制 | 5 | 新闻存档 https://archive.li/tDTZd |
 | 2018-02-27| 苹果中国iCloud转交“云上贵州”运营 | 干预互联网市场| 5 | null |
 
 文本编辑器(推荐sublime text, atom, notepad++等)中显示为

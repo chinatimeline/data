@@ -47,7 +47,7 @@ date,name,group,impact,description
 2019-03-04,“华尔街见闻”遭罚,干预互联网市场,5,
 2019-06-10,“华尔街见闻”网站和App下线整改,干预互联网市场,5,上海網信辦在其微信公眾號中表示，《華爾街見聞》涉及「在未獲資格的情況下，違規刊載新聞訊息，且內容導向存在偏差，擾亂網路訊息傳播秩序」因此將「約談《華爾街見聞》負責人，責令其停止違規行為，要求展開全面整改，並祭出罰款。」https://ec.ltn.com.tw/article/breakingnews/2717038
 2019-04-24,今日头条跟帖评论整改,干预互联网市场,5,全天候科技报道 https://awtmt.com/articles/3517285?from=wscn
-2010-03-23,谷歌退出中国市场google.cn,干预互联网市场,5,
+2010-03-23,谷歌退出中国市场Google.cn，此前Google于<br>2010-01-12声明将在Google.cn上停止审查搜索结果,干预互联网市场,5,https://archive.fo/fkCaW
 2005-09-25,《互联网新闻信息服务管理规定》实施,数字监控和墙,5,
 2012-02-06,王立军事件,重大历史事件,5,王立军进入美国驻成都总领事馆并提出了政治避难申请。
 2008-08-08,北京奥运会开幕,重大历史事件,5,举国之力办北京奥运会增加国际影响力。
@@ -56,7 +56,7 @@ date,name,group,impact,description
 2014-10-15,习近平主持召开文艺工作座谈会,文化文艺娱乐,5,新闻存档 https://archive.li/tDTZd
 2019-05-23,晋江文学城被整改<br>小说电影写作尺度收紧,文化文艺娱乐,5,
 2000-09-20,《互联网信息服务管理办法》实施,数字监控和墙,5,提供新闻、出版、视听、文化、教育、医疗保健、药品、医疗器械服务需申请行政许可证 https://archive.li/hf56F
-2006-04-01,谷歌中国成立google.cn,干预互联网市场,5,
+2006-04-01,谷歌中国成立Google.cn,干预互联网市场,5,
 2018-02-27,苹果中国iCloud转交“云上贵州”运营,干预互联网市场,5,
 2005-12-29,《新京报》撤编事件,整治自由派社群,5,https://zh.wikipedia.org/zh-hans/%E6%96%B0%E4%BA%AC%E6%8A%A5%E6%92%A4%E7%BC%96%E4%BA%8B%E4%BB%B6
 2019-06-03,《新京报》创始人戴自更被抓,整治自由派社群,5,新京报原社长戴自更被抓内幕https://terminus2049.github.io/archive/2019/06/07/dai-zi-geng.html
@@ -165,3 +165,11 @@ date,name,group,impact,description
 2019-06-20,大量网友反映北京上海地铁检查乘客手机,数字监控和墙,3,https://archive.li/rF53e
 2019-01-09,中国网络视听节目服务协会<br>《网络短视频内容审核标准细则》<br>21类内容不得出现,干预互联网市场,5,https://archive.li/SuzgU
 2019-06-15,浙江嘉兴一外贸公司用翻墙软件被海宁警方给予行政警告,数字监控和墙,2,https://archive.li/dM0mL
+2007-06-24,Google.com、Google Reader、Gmail等服务遭短暂屏蔽1天,数字监控和墙,5,https://archive.is/yXmU; https://archive.is/knWg
+2007-10-18,Yahoo.com、Google.com、Live.com等域名被挟持至百度,数字监控和墙,5,https://archive.is/ZiAbI
+2009-05-19,工信部通知7月1日起在中国境内生产销售的计算机出厂<br>时预装上网过滤软件“绿坝·花季护航”，6月30日宣布暂缓执行,干预互联网市场,2,维基百科 https://archive.vn/P5Sy6
+2009-06-18,“Google中国”因“涉黄”受《焦点访谈》报道及有关部门约谈,干预互联网市场,5,维基百科存档	https://archive.li/mRWkr
+2009-12-15,Google等二十余家大公司受到了来自中国的、复杂的网络攻击,干预互联网市场,5,https://googleblog.blogspot.com/2010/01/new-approach-to-china.html
+2012-11-09,Google.com和其子域名受到DNS污染12小时,数字监控和墙,2,https://zh.greatfire.org/blog/2012/nov/google-unblocked-again-was-it-mistake-or-test
+2014-06-02,Google所有服务受到GFW干扰,数字监控和墙,5,http://archivecaslytosk.onion/eZ5hm；https://archive.is/eZ5hm
+

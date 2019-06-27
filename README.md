@@ -26,6 +26,7 @@ Redditer可直接前往[r/chinatimeline](https://www.reddit.com/r/chinatimeline/
 ├── ideology #中共意识形态保卫战
 │   ├── CCP_Ideology_Timeline.json #从CPC Brainwashing Timeline导出的原始数据（停用）
 │   ├── CCP_Ideology_Events.csv #事件数据文件
+│   ├── CCP_Religious_Persecution.csv #迫害宗教自由数据文件
 │   └── CCP_Presidential_term.csv #中共中央总书记任期（图中背景区块）
 └── US_CN_TradeWar #美中贸易战
     ├── Persidential_Term.csv #美中领导人任期（图中背景区块）
@@ -94,8 +95,11 @@ date,name,group,impact,description,
 * wikipedia的中国历史年表:[2008](https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86),[2009](https://zh.wikipedia.org/wiki/2009%E5%B9%B4%E4%B8%AD%E5%9B%BD),[2010](https://zh.wikipedia.org/wiki/2010%E5%B9%B4%E4%B8%AD%E5%9C%8B),[2011](https://zh.wikipedia.org/wiki/2011%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86),[2012](https://zh.wikipedia.org/wiki/2012%E5%B9%B4%E4%B8%AD%E5%9C%8B),[2013](https://zh.wikipedia.org/wiki/2013%E5%B9%B4%E4%B8%AD%E5%9B%BD),[2014](https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E4%B8%AD%E5%9C%8B),[2015](https://zh.wikipedia.org/wiki/2015%E5%B9%B4%E4%B8%AD%E5%9C%8B),[2016](https://zh.wikipedia.org/wiki/2016%E5%B9%B4%E4%B8%AD%E5%9B%BD),[2017](https://zh.wikipedia.org/wiki/2017%E5%B9%B4%E4%B8%AD%E5%9B%BD),[2018](https://zh.wikipedia.org/wiki/2018%E5%B9%B4%E4%B8%AD%E5%9B%BD)
 * 西方各大媒体
 * 中国官媒，政府网站
-* 宗教迫害：中华民国陆委会 [2000-2006](https://www.mac.gov.tw/cn/cp.aspx?n=DD102593FDB1A032), [大陆地区人权状况](https://www.mac.gov.tw/np.asp?ctNode=7351&mp=1)
+* 宗教迫害：中华民国陆委会 [迫害宗教自由事例 2000-2006](https://www.mac.gov.tw/cn/cp.aspx?n=DD102593FDB1A032), [大陆人权概况专区](https://www.mac.gov.tw/np.asp?ctNode=7351&mp=1)
+
+### 工具
+* 转换PDF为CSV [https://www.zamzar.com/](https://www.zamzar.com/)
 
 ---
 [MIT License](https://opensource.org/licenses/MIT) |
-Update: 2019-06-18
+Update: 2019-06-26

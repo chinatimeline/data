@@ -173,7 +173,7 @@ date,name,group,impact,description
 2009-06-18,“Google中国”因“涉黄”受《焦点访谈》报道及有关部门约谈,干预互联网市场,5,维基百科存档	https://archive.li/mRWkr
 2009-12-15,Google等二十余家大公司受到了来自中国的、复杂的网络攻击,干预互联网市场,5,https://googleblog.blogspot.com/2010/01/new-approach-to-china.html
 2012-11-09,Google.com和其子域名受到DNS污染12小时,数字监控和墙,2,https://zh.greatfire.org/blog/2012/nov/google-unblocked-again-was-it-mistake-or-test
-2014-06-02,Google所有服务受到GFW干扰,数字监控和墙,5,http://archivecaslytosk.onion/eZ5hm；https://archive.is/eZ5hm
+2014-06-02,Google所有服务受到GFW干扰,数字监控和墙,5,https://archive.md/eZ5hm；https://archive.is/eZ5hm
 2013-05-04,中组部、中宣部和教育部党组发布共16条的<br>《关于加强和改进高校青年教师思想政治工作的若干意见》,打击学术自由,5,相关报道 https://archive.li/fX3yL；https://web.archive.org/web/20190621131202/http://www.gov.cn/gzdt/2013-05/27/content_2412217.htm
 2017-06-16,中纪委批评14所大学意识形态工作不力,打击学术自由,5,金融时报相关报道 http://archive.is/eCm7k；新华网 http://archive.is/I62VZ
 2018-01-10,传清华大学毕业生增意识形态政审,打击学术自由,1,RFA报道 https://archive.is/0W0sj
@@ -246,3 +246,11 @@ date,name,group,impact,description
 2018-12-15,河北廊坊发布圣诞装饰禁令,文化文艺娱乐,5,https://archive.li/KoPOw
 2019-06-26,网传李克强所在北大77级法律系微信群被封，<br>腾讯副总回复“是上面命令，我们解不了。”,数字监控和墙,2,法广报道 https://archive.li/Sc4IK
 2019-05-05,中央文件：全面推行村党组织书记通过法定程序担任村委会主任,党团人事组织,5,https://archive.li/bfAYD
+2014-11-07,武汉大学要求5类人员上交因私护照通行证：<br>1 科研项目涉密人员；<br>2 学校中层副职及以上人员；<br>3 参公管理人员；<br>4 在职人员中具有副高级专业技术职务及以上人员、<br>副处级及以上非领导职务人员、六级及以上<br>职员、拥有博士学位者、财务人员；<br>7 离（退）休的厅（局）级以上干部,党团人事组织,5,https://archive.fo/tYHsj
+2014-11-28,中南民族大学要求8类人员上交护照通行证：<br>1.全校在职校、处级干部（包括享受处级待遇人员）；<br>2.离（退）休的副厅级以上干部；<br>3.具有高级职称的在职专业技术人员；<br>4.具有博士学位的在职人员；<br>5.承担重要科研项目的人员；<br>6.财务管理人员；<br>7.涉及学校资产安全及机密的人员；<br>8.学校认为有必要登记备案的其他人员。,党团人事组织,5,https://archive.md/2McKZ
+2015-06-19,人民网：北京“收紧”科级公务员出国 护照统一放保密柜,党团人事组织,5,https://archive.md/2jzXL
+2018-10-01,各地下发通知要求中小学教师上交因私护照通行证,党团人事组织,5,https://archive.md/KIs1K
+2016-10-19,新疆石河子通知当地居民上交护照，由公安统一保管,党团人事组织,5,https://archive.md/DDB9O
+2017-06-13,新华网 天津严管干部因私出国：科员每年也仅限一次,党团人事组织,5,https://archive.md/mQjEb
+2016-03-01,成都高校要求高级讲师上交护照 出国申请须承诺不“泄密”,党团人事组织,4,https://archive.md/LvVUh
+2019-02-08,中国收缴护照限制体制内人员出境，<br>目标人群扩展至教师及医护人员,党团人事组织,4,https://archive.md/9BRuL

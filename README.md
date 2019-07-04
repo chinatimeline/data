@@ -7,7 +7,7 @@
 
 **参与：**
 
-Redditer可直接前往[r/chinatimeline](https://www.reddit.com/r/chinatimeline/)提交新闻，可以是link或者自己写的文档，最好带上相关链接。
+Redditer可直接前往[r/chinatimeline](https://old.reddit.com/r/chinatimeline/)提交新闻，可以是link或者自己写的文档，最好带上相关链接。
 
 也可提交PR (Pull Request)添加事件，此外如果你希望创建新的图，可通过PR添加新的文件夹和csv格式数据文件
 1. 5分钟了解PR工作流程:

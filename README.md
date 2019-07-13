@@ -28,6 +28,9 @@ Redditer可直接前往[r/chinatimeline](https://old.reddit.com/r/chinatimeline/
 │   ├── CCP_Ideology_Events.csv #事件数据文件
 │   ├── CCP_Religious_Persecution.csv #迫害宗教自由数据文件
 │   └── CCP_Presidential_term.csv #中共中央总书记任期（图中背景区块）
+├── OneBeltOneRoad # 一带一路
+│   ├── CCP_Presidential_term.csv #中共中央总书记任期（图中背景区块）
+│   └── OBOR_Events.csv # 一带一路相关事件
 └── US_CN_TradeWar #美中贸易战
     ├── Persidential_Term.csv #美中领导人任期（图中背景区块）
     └── TradeWar_Events.csv #贸易战相关事件数据文件
@@ -88,6 +91,10 @@ date,name,group,impact,description,
 数据源: [The US China Trade War: A Timeline](https://www.china-briefing.com/news/the-us-china-trade-war-a-timeline/)
 
 参考 [Bloomberg](https://www.bloomberg.com/news/articles/2019-01-30/u-s-china-trade-war-timeline-what-s-happened-and-what-s-next)
+
+#### 1.2.3 文件夹 OneBeltOneRoad
+数据源： [新华网](http://www.xinhuanet.com/world/2019-04/26/c_1124418156.htm)
+
 
 ## 参考新闻源
 * 搜索引擎 [Google](https://google.com), [Startpage.com](https://startpage.com), [DuckDuckGo](https://duckduckgo.com/)

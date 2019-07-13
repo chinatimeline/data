@@ -93,8 +93,9 @@ date,name,group,impact,description,
 参考 [Bloomberg](https://www.bloomberg.com/news/articles/2019-01-30/u-s-china-trade-war-timeline-what-s-happened-and-what-s-next)
 
 #### 1.2.3 文件夹 OneBeltOneRoad
-数据源： [新华网](http://www.xinhuanet.com/world/2019-04/26/c_1124418156.htm)
+数据源: [新华网](http://www.xinhuanet.com/world/2019-04/26/c_1124418156.htm)
 
+参考: [World Bank: Belt and Road Initiative](https://www.worldbank.org/en/topic/regional-integration/brief/belt-and-road-initiative)
 
 ## 参考新闻源
 * 搜索引擎 [Google](https://google.com), [Startpage.com](https://startpage.com), [DuckDuckGo](https://duckduckgo.com/)

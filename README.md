@@ -7,7 +7,26 @@
 
 **参与：**
 
+***方式1： Reddit***
+
 Redditer可直接前往[r/chinatimeline](https://old.reddit.com/r/chinatimeline/)提交新闻，可以是link或者自己写的文档，最好带上相关链接。
+
+***方式2： HackMD***
+
+其中，文革2.0的中英文数据都已经添加进去：
+- 中文： https://hackmd.io/@chinatimeline/CCP_Ideology_Events
+- 英文：https://hackmd.io/@chinatimeline/CCP_Ideology_Events_en
+
+到发文为止，中文内容最近一次更新是2019年8月29日，有兴趣的志愿者可以从那个日期前后开始补充内容。另外，英文的翻译还远远不够，前50条之后的内容都还是机器翻译有大量错误。希望有更多志愿者参与搜集新闻事件和翻译工作。
+
+打开方式：比方说打开[中文数据](https://hackmd.io/@chinatimeline/CCP_Ideology_Events)之后，点击右上方铅笔图标的按钮即跳转到[编辑页面](https://hackmd.io/nbvrGGepTGiC0M_uuD3I2w?edit) 数据会自动保存各个历史版本，所以大家不用担心人为破坏删除，我会手动对比查看每个版本的数据确保数据的完整性。
+
+参与编辑需要注册一个HackMD账户，推荐使用匿名邮箱或临时邮箱来进行注册（Credit: [达摩俱乐部](https://damoresclub.github.io/about/)）：
+- 推荐使用Protonmail, Tutanota, OpenMailbox等支持匿名和加密的邮件服务
+- 如果仅仅是注册可用10分钟临时邮箱 https://bccto.me/
+
+
+***方式3：Github Pull Request***
 
 也可提交PR (Pull Request)添加事件，此外如果你希望创建新的图，可通过PR添加新的文件夹和csv格式数据文件
 1. 5分钟了解PR工作流程:
@@ -69,16 +88,16 @@ date,name,group,impact,description,
 #### 1.2.1 文件夹 ideology<a name="ideologicalwar"></a>
 
 中共为控制意识形态采取的各种措施及相关报道，分类如下（欢迎对分类提意见）：
-1. 重大历史事件：具有标志性或里程碑意义、对历史产生重大影响的国内外政治或军事事件
-2. 文化文艺娱乐：在文学、艺术、影视、游戏以及一般文化方面，基于意识形态理由的审查、引导等
-3. 数字监控与墙~~网络空间实名制~~：如GFW、各类实名制的政策与法律、黑客攻击、金盾工程、天网工程、雪亮工程，拘留喝茶翻墙网友等
-4. 建立宣传网站：各种宣传中共意识形态的极左网站、论坛、纪录片等
-5. 进驻社交媒体：官方机构开设社交媒体帐号进驻各种互联网平台
-6. 整治自由派社群：官方对自由派媒体、论坛、意见领袖的各种打压行动
-7. 打击学术自由：针对学生、高校教师在高校环境内的迫害、洗脑、打压、处罚、审查、告密等
-8. 干预互联网市场：以行政为主技术为辅的手段对互联网公司的运营进行插手、干扰、处罚等
-9. 党团人事组织：标志性的党、团人事或组织变动事件、政策等
-10. (单列)宗教迫害：为防止宗教思想传播而迫害宗教人士、群体、族群，审查和篡改宗教相关课文、书籍等
+1. 重大历史事件 Major Historical Events：具有标志性或里程碑意义、对历史产生重大影响的国内外政治或军事事件
+2. 文化文艺娱乐 Culture, Arts and Entertainment：在文学、艺术、影视、游戏以及一般文化方面，基于意识形态理由的审查、引导等
+3. 数字监控与墙 Digital Surveillance and Censorship：如GFW、各类实名制的政策与法律、黑客攻击、金盾工程、天网工程、雪亮工程，拘留喝茶翻墙网友等
+4. 建立宣传网站 Setup Communist Propaganda Outlet：各种宣传中共意识形态的极左网站、论坛、纪录片等
+5. 进驻社交媒体 Setup Social Media Outlet：官方机构开设社交媒体帐号进驻各种互联网平台
+6. 整治自由派社群 Persecute Political Dissidents：官方对自由派媒体、论坛、意见领袖的各种打压行动
+7. 打击学术自由 Suppress Academic Freedom：针对学生、高校教师在高校环境内的迫害、洗脑、打压、处罚、审查、告密等
+8. 干预互联网市场 Intervening the Internet market：以行政为主技术为辅的手段对互联网公司的运营进行插手、干扰、处罚等
+9. 党团人事组织 Party Personnel & Organization：标志性的党、团人事或组织变动事件、政策等
+10. (单列)宗教迫害 Religious Persecution：为防止宗教思想传播而迫害宗教人士、群体、族群，审查和篡改宗教相关课文、书籍等
 
 数据来源
 1. 本数据初版来自“中共洗脑保党时间线” [https://time.graphics/line/226382](https://time.graphics/line/226382)

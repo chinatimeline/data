@@ -3,7 +3,7 @@
 ## 图表展示
 - 文革2.0
   - 备份1 [https://plot.ly/~chinatimeline/0.embed](https://plot.ly/~chinatimeline/0.embed)
-  - 备份2 [https://plot.ly/~chinatimeline/10.embe](https://plot.ly/~chinatimeline/10.embe)
+  - 备份2 [https://plot.ly/~chinatimeline/10.embed](https://plot.ly/~chinatimeline/10.embed)
   - 备份3 [https://plot.ly/~chinatimeline/18.embed](https://plot.ly/~chinatimeline/18.embed)
   - 备份4 [https://plot.ly/~chinatimeline/20.embed](https://plot.ly/~chinatimeline/20.embed)
 - 宗教迫害

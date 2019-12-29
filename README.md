@@ -1,62 +1,30 @@
 # Timeline and Data
 
 ## 图表展示
-- 文革2.0
-  - 备份1 [https://plot.ly/~chinatimeline/0.embed](https://plot.ly/~chinatimeline/0.embed)
-  - 备份2 [https://plot.ly/~chinatimeline/10.embed](https://plot.ly/~chinatimeline/10.embed)
-  - 备份3 [https://plot.ly/~chinatimeline/18.embed](https://plot.ly/~chinatimeline/18.embed)
-  - 备份4 [https://plot.ly/~chinatimeline/20.embed](https://plot.ly/~chinatimeline/20.embed)
-- 宗教迫害
-  - 备份1 [https://plot.ly/~chinatimeline/8.embed](https://plot.ly/~chinatimeline/8.embed)
-  - 备份2 [https://plot.ly/~chinatimeline/12.embed](https://plot.ly/~chinatimeline/12.embed)
-  - 备份3 [https://plot.ly/~chinatimeline/14.embed](https://plot.ly/~chinatimeline/14.embed)
-  - 备份4 [https://plot.ly/~chinatimeline/16.embed](https://plot.ly/~chinatimeline/16.embed)
-- US China Trade War Timeline
-  - 图 [https://plot.ly/~chinatimeline/4.embed](https://plot.ly/~chinatimeline/4.embed)
-  - [数据源](https://www.china-briefing.com/news/the-us-china-trade-war-a-timeline/)
-- 一带一路时间线
-  - 图 [https://plot.ly/~chinatimeline/22.embed](https://plot.ly/~chinatimeline/22.embed)
-  - [数据源](http://www.xinhuanet.com/world/2019-04/26/c_1124418156.htm)
-
-说明
-1. X轴代表事件发生日期，Y轴代表事件发生日是于星期几。
-2. 单击图例可隐藏该类别事件，双击图例可单独显示该类别事件。
-3. 如互动图显示402代表当日已超过500次观看限制，请点其它备份。
+请前往主站 [https://chinatimeline.github.io](https://chinatimeline.github.io)
 
 ---
-## 参与提交数据
+## 参与方式
 
-### 方式1： Reddit
+### 提交数据 （推荐）
+请前往主站对应互动图展示页面底部提交新闻事件 
+- [中共意识形态保卫战](https://chinatimeline.github.io/ideology_tl1/) 
+- [中国的宗教迫害](https://chinatimeline.github.io/religion_tl1/)
+- [一带一路时间线](https://chinatimeline.github.io/obor/)
+- [中美贸易战时间线](https://chinatimeline.github.io/tradewar/)
+到发文为止，中文内容最近一次更新是2019年8月29日，欢迎补充后续新闻事件。
 
-直接前往[r/chinatimeline](https://old.reddit.com/r/chinatimeline/)提交新闻，可以是link或者自己写的文档，最好带上相关链接。
+### 中译英： HackMD （推荐）
 
-### 方式2： HackMD
-
-其中，文革2.0的中英文数据都已经添加进去：
-- 中文： https://hackmd.io/@chinatimeline/CCP_Ideology_Events
-- 英文：https://hackmd.io/@chinatimeline/CCP_Ideology_Events_en
-
-到发文为止，中文内容最近一次更新是2019年8月29日，有兴趣的志愿者可以从那个日期前后开始补充内容。另外，英文的翻译还远远不够，前50条之后的内容都还是机器翻译有大量错误。希望有更多志愿者参与搜集新闻事件和翻译工作。
-
-打开方式：比方说打开[中文数据](https://hackmd.io/@chinatimeline/CCP_Ideology_Events)之后，点击右上方铅笔图标的按钮即跳转到[编辑页面](https://hackmd.io/nbvrGGepTGiC0M_uuD3I2w?edit) 数据会自动保存各个历史版本，所以大家不用担心人为破坏删除，我会手动对比查看每个版本的数据确保数据的完整性。
-
+目标是将中共意识形态保卫战事件时间线翻译成英文，目前仅粗略翻译了前50条，剩下的是有大量错误的机翻。
 参与编辑需要注册一个HackMD账户，推荐使用匿名邮箱或临时邮箱来进行注册
 - 推荐使用Protonmail, Tutanota, OpenMailbox等支持匿名和加密的邮件服务
 - 如果仅仅是注册可用10分钟临时邮箱 https://bccto.me/
 
+中英文数据的多人协作编辑页面 https://hackmd.io/@chinatimeline
 
-### 方式3：Github Pull Request
+打开方式：比方说打开[中文数据](https://hackmd.io/@chinatimeline/CCP_Ideology_Events)之后，点击右上方铅笔图标的按钮即跳转到[编辑页面](https://hackmd.io/nbvrGGepTGiC0M_uuD3I2w?edit) 数据会自动保存各个历史版本，所以大家不用担心人为破坏删除，我会手动对比查看每个版本的数据确保数据的完整性。
 
-也可提交PR (Pull Request)添加事件，此外如果你希望创建新的图，可通过PR添加新的文件夹和csv格式数据文件
-1. 5分钟了解PR工作流程:
-    * 中文视频(陆)： [泊学-在GitHub创建和处理PR](https://boxueio.com/series/git-essential/episode/459), [油管Inty](https://www.youtube.com/watch?v=MBdLOl5tUKY)
-    * [中文视频(台)](https://www.youtube.com/watch?v=pytolws6aiE)
-    * [文字教程：尝试Pull Request](https://www.jianshu.com/p/dd243fecf0f4) [档案版](https://archive.fo/NZmPb)
-    * [English Video Tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ)
-    * [About pull requests](https://help.github.com/en/articles/about-pull-requests)
-2. 为避免被喝茶，请用与真实身份脱钩的github帐号
-    * 墙内请用VPN+Tor访问: (1)如用本地目录请用[双虚拟机方案](https://program-think.blogspot.com/2013/11/tor-faq.html?m=1), (2)如仅网页编辑请用[Tor Browser](https://www.torproject.org/download/)
-    * Github接受的匿名邮箱 [Protonmail](https://protonmail.com), [Tutanota](https://www.tutanota.com). 注册虚拟手机号 [TextNow](https://www.textnow.com)
 
 ---
 ## 1 目录结构与说明
@@ -146,6 +114,28 @@ date,name,group,impact,description,
 
 ### 工具
 * 转换PDF为CSV [https://www.zamzar.com/](https://www.zamzar.com/)
+
+## 过时信息
+
+### 参与方式3：Github Pull Request （不推荐）
+
+也可提交PR (Pull Request)添加事件，此外如果你希望创建新的图，可通过PR添加新的文件夹和csv格式数据文件
+1. 5分钟了解PR工作流程:
+    * 中文视频(陆)： [泊学-在GitHub创建和处理PR](https://boxueio.com/series/git-essential/episode/459), [油管Inty](https://www.youtube.com/watch?v=MBdLOl5tUKY)
+    * [中文视频(台)](https://www.youtube.com/watch?v=pytolws6aiE)
+    * [文字教程：尝试Pull Request](https://www.jianshu.com/p/dd243fecf0f4) [档案版](https://archive.fo/NZmPb)
+    * [English Video Tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ)
+    * [About pull requests](https://help.github.com/en/articles/about-pull-requests)
+2. 为避免被喝茶，请用与真实身份脱钩的github帐号
+    * 墙内请用VPN+Tor访问: (1)如用本地目录请用[双虚拟机方案](https://program-think.blogspot.com/2013/11/tor-faq.html?m=1), (2)如仅网页编辑请用[Tor Browser](https://www.torproject.org/download/)
+    * Github接受的匿名邮箱 [Protonmail](https://protonmail.com), [Tutanota](https://www.tutanota.com). 注册虚拟手机号 [TextNow](https://www.textnow.com)
+
+### 参与方式4： Reddit （不推荐）
+
+直接前往[r/chinatimeline](https://old.reddit.com/r/chinatimeline/)提交新闻，可以是link或者自己写的文档，最好带上相关链接。
+
+
+
 
 ---
 [MIT License](https://opensource.org/licenses/MIT) |

@@ -1,5 +1,5 @@
-date,name,group,impact,description
-"June 29, 2019","Trade talks to restart, ban on Huawei relaxed","Both","5","
+,date,name,group,impact,description
+0,"June 29, 2019","Trade talks to restart, ban on Huawei relaxed",Both,5,"
 The US and China agreed to restart trade talks, following the tentative truce reached earlier in the week. No deadline has been imposed for the talks unlike the 90-day ceasefire agreed to last year at the G20 Summit in Buenos Aires. This means that a new round of tit-for-tat tariffs will remain on hold for the foreseeable future.
 
 More interestingly, President Trump also suggested relaxing the ban on US exports to China’s Huawei Technologies.
@@ -7,13 +7,13 @@ More interestingly, President Trump also suggested relaxing the ban on US export
 Both announcements bring immediate relief to Chinese trade negotiators who will now be keenly following the 2020 US elections.
 
 During his press conference, Trump appeared short on specifics besides clarifying, “We’re holding back on tariffs” and stating that US companies were “not exactly happy” about being unable to sell to the Chinese smartphone maker. Previously, the US had blacklisted the company by placing it on its ‘entity list’ and banned the sale of high-tech components and software to Huawei."
-"June 26, 2019","Tentative truce reached days before G20 Summit","Both","5","The US and China have agreed to a tentative truce in the lead up to their resumed trade talks in Osaka this weekend. Details of the agreement are being drawn up and are expected to be released prior to the meeting. The US has threatened 25 percent tariffs on a further US$300 billion of Chinese imports, which is expected to be halted. Sources quoted by the media suggest that Trump might propose a deadline of six months for the talks to reach an agreement. If this does culminate, it would mean the US would hold off on implementing further tariffs until the end of the year."
-"June 21, 2019","US adds another five Chinese entities to its ‘entity list’","US","5","US Commerce Department announced the addition of five new Chinese entities (including a state-owned enterprise) to its entity list, barring them from buying US parts and components without prior government approval.  The new entities targeted are: Sugon, the Wuxi Jiangnan Institute of Computing Technology, Higon, Chengdu Haiguang Integrated Circuit, and Chengdu Haiguang Microelectronics Technology."
-"June 18, 2019","Xi and Trump rekindle trade talks ahead of G20 meeting","Both","5","Xi and Trump reignite trade talks over the phone, less than two weeks before the much anticipated G20 Summit in Osaka, June 28 and 29. Both sides have confirmed that they will meet in person to discuss the ongoing trade dispute, on the sidelines of the Summit.
+1,"June 26, 2019",Tentative truce reached days before G20 Summit,Both,5,"The US and China have agreed to a tentative truce in the lead up to their resumed trade talks in Osaka this weekend. Details of the agreement are being drawn up and are expected to be released prior to the meeting. The US has threatened 25 percent tariffs on a further US$300 billion of Chinese imports, which is expected to be halted. Sources quoted by the media suggest that Trump might propose a deadline of six months for the talks to reach an agreement. If this does culminate, it would mean the US would hold off on implementing further tariffs until the end of the year."
+2,"June 21, 2019",US adds another five Chinese entities to its ‘entity list’,US,5,"US Commerce Department announced the addition of five new Chinese entities (including a state-owned enterprise) to its entity list, barring them from buying US parts and components without prior government approval.  The new entities targeted are: Sugon, the Wuxi Jiangnan Institute of Computing Technology, Higon, Chengdu Haiguang Integrated Circuit, and Chengdu Haiguang Microelectronics Technology."
+3,"June 18, 2019",Xi and Trump rekindle trade talks ahead of G20 meeting,Both,5,"Xi and Trump reignite trade talks over the phone, less than two weeks before the much anticipated G20 Summit in Osaka, June 28 and 29. Both sides have confirmed that they will meet in person to discuss the ongoing trade dispute, on the sidelines of the Summit.
 
 Previously, Trump threatened to slap tariffs on the remaining US$300 billion of untariffed Chinese imports, depending on the outcome of the trade talks. This will effect an array of consumer products, such as cellphones, computers, and clothing. These new tariffs have now been proposed in a bill, with public consultation set to end on July 2."
-"June 2, 2019","China issues white paper on US-China economic relations",Both,5,"China announces the release of a white paper titled, ‘China’s Position on the China-US Economic and Trade Consultations’ (full text can be found here). The white paper denounces US unilateral and protectionist measures, criticizes its backtracking on Sino-US trade talks, and demonstrates China’s stance on trade consultations and the pursuit of reasonable solutions."
-"June 1, 2019","China increases tariffs on US$60 billion worth of products",China,5,"
+4,"June 2, 2019",China issues white paper on US-China economic relations,Both,5,"China announces the release of a white paper titled, ‘China’s Position on the China-US Economic and Trade Consultations’ (full text can be found here). The white paper denounces US unilateral and protectionist measures, criticizes its backtracking on Sino-US trade talks, and demonstrates China’s stance on trade consultations and the pursuit of reasonable solutions."
+5,"June 1, 2019",China increases tariffs on US$60 billion worth of products,China,5,"
 Tariffs of 25 percent, 20 percent, and 10 percent, which were first announced on May 13, 2019 are now in effect on US$60 billion worth of American goods exported to China.
 
 The specific changes are as follows:
@@ -24,13 +24,13 @@ The specific changes are as follows:
     Products in list 4 will still be subject to a 5 percent tariff.
 
 Separately, China announces that it has opened an official investigation into US shipping company FedEx for diverting packages from Japan, bound for China – to the US."
-"May 31, 2019","China establishes its very own ‘unreliable entities’ list",Both,5,"
+6,"May 31, 2019",China establishes its very own ‘unreliable entities’ list,Both,5,"
 China announces that it will establish its very own unreliable entities list in retaliation to the US’ entity list.
 
 The unreliable list will include foreign enterprises, organizations, and individuals that do not obey market rules, violate contracts, and block, cut off supply for non-commercial reasons, or severely damage the legitimate interests of Chinese companies."
-"May 16, 2019","US places Huawei on its ‘entity list’, banning it from purchasing from US companies",US,5,"
+7,"May 16, 2019","US places Huawei on its ‘entity list’, banning it from purchasing from US companies",US,5,"
 The US Department of Commerce announces the addition of Huawei Technologies Co. Ltd and its affiliates on its “entity list’, which effectively bans US companies from selling to the Chinese telecommunications company without US government approval."
-"May 13, 2019","China announces tariff hikes on US products",China,5,"
+8,"May 13, 2019",China announces tariff hikes on US products,China,5,"
 China announces that it will increase tariffs on US$60 billion worth of US goods from June 1, 2019, in response to the tariff increases imposed by the US on May 10.
 
 The tariffs will apply to products originally released in Announcement 6, which amends the tariffs announced last September.
@@ -40,41 +40,41 @@ Products affected include beef, lamb, pork, vegetables, juice, cooking oil, tea,
 Alongside tariff increases, the State Council Customs Tariff Committee have also launched a tariff exemption system for certain eligible products. (See full Chinese announcement here and unofficial English version here).
 
 The USTR also announces that they will hold a public hearing on June 17, 2019 on the possibility of imposing 25 percent tariffs on a further US$300 billion worth of Chinese imports, including cellphones and laptops."
-"May 10, 2019","US increases tariff from 10 percent to 25 percent",Both,5,"
+9,"May 10, 2019",US increases tariff from 10 percent to 25 percent,Both,5,"
 US increases tariffs on US$200 billion worth of Chinese goods (List 3) from 10 percent to 25 percent, as the US and China fail to reach a deal following the end of the first day of the eleventh round of high-level trade talks.
 
 The tariff increase will be effective from May 10, 2019 at 12:01 am (EST), with goods leaving from China to the US before midnight still taxed at the previous 10 percent rate. (See full notice here).
 
 In response, China’s Ministry of Commerce releases a statement announcing that it “deeply regrets” the tariffs and that “necessary countermeasures” will be taken."
-"May 5, 2019","Trump threatens to raise tariffs on China",US,5,"
+10,"May 5, 2019",Trump threatens to raise tariffs on China,US,5,"
 Trump says that the US will increase tariffs on US$200 billion worth of Chinese products from 10 percent to 25 percent, effective Friday, May 10. The tariffs would apply to the products included on List 3, which have been subject to 10 percent tariffs since September 24, 2018. The tariffs on List 3 were initially scheduled to increase to 25 percent on January 1, 2019, until the US and China agreed to delay the increase until March 1, 2019 and then later agreed to delay them indefinitely.
 
 Trump also says that he would come up with new tariffs of 25 percent on an additional US$325 billion worth of Chinese goods, which would cover essentially all remaining Chinese products. Trump says that the tariff increase is being done because the Chinese side is attempting to “renegotiate” the trade deal and is backsliding on commitments."
-"April 30, 2019","US and China hold trade talks in Beijing",Both,5,"
+11,"April 30, 2019",US and China hold trade talks in Beijing,Both,5,"
 US and Chinese negotiators continue trade talks in Beijing on Tuesday, April 30 and Wednesday, May 1. Mnuchin calls the talks “productive” and confirms that the two sides will continue negotiations in Washington the next week."
-"April 10, 2019","US and China agree to establish trade deal enforcement offices",Both,5,"
+12,"April 10, 2019",US and China agree to establish trade deal enforcement offices,Both,5,"
 US Treasury Secretary Steve Mnuchin says that the US and China have agreed to establish “enforcement offices” to monitor the enforcement of the trade deal, which has yet to be finalized. According to media reports, other issues relating to enforcement have yet to be agreed upon, such as whether the US will have the right to unilaterally re-implement tariffs if China is deemed to have reneged on its commitments."
-"April 3, 2019","US and China hold trade talks in Washington",Both,5,"
+13,"April 3, 2019",US and China hold trade talks in Washington,Both,5,"
 US and Chinese negotiators continue trade talks in Washington from Wednesday, April 3 to Friday, April 5, a week after holding negotiations in Beijing. On Thursday, April 4, Trump meets with Liu He, and says that the two sides will know “over the next four weeks” whether they can strike a deal. US and Chinese negotiators agree to continue talks the following week."
-"April 1, 2019","China bans all types of fentanyl",China,5,"
+14,"April 1, 2019",China bans all types of fentanyl,China,5,"
 China announces that it will ban all variants of the synthetic opioid fentanyl, effective May 1, 2019, in what is considered a concession to the US amid trade talks. China previously banned some strains of fentanyl, but only banned other strains on a case-by-case basis rather than as a class of drug. Because of the opioid crisis in the US,5, China’s treatment of fentanyl production and distribution had been a source of tension in bilateral relations."
-"March 31, 2019","China extends the suspension of additional tariffs on US autos and auto parts",China,5,"
+15,"March 31, 2019",China extends the suspension of additional tariffs on US autos and auto parts,China,5,"
 China extends the suspension of additional tariffs on US autos and auto parts, which were set to go back into force on April 1, 2019. China previously placed retaliatory tariffs of 25 percent on such products in reaction to US tariffs, but suspended them in December 2018, effective January 1 to April 1, 2019. The announcement did not state when the suspension would expire. US autos are still subject to China’s standard tariff rate of 15 percent."
-"March 28, 2019","US and China hold trade talks in Beijing after one month break",Both,5,"
+16,"March 28, 2019",US and China hold trade talks in Beijing after one month break,Both,5,"
 US and Chinese negotiators resume trade talks in Beijing on Thursday, March 28 and Friday, March 29 after not meeting face-to-face for nearly one month. The month-long break was partly due to the Two Sessions meetings held in early March, which were China’s biggest political meetings of the year. Officials call the trade talks constructive, with an enforcement mechanism to monitor China’s commitment to trade concessions reportedly a sticking point."
-"February 21, 2019","US and China hold trade talks in Washington; Trump extends tariff deadline",Both,5,"
+17,"February 21, 2019",US and China hold trade talks in Washington; Trump extends tariff deadline,Both,5,"
 On Thursday, February 21, US and Chinese negotiators resume trade talks in Washington. The day after, on Friday, February 22, Trump meets with Liu He in front of the media, expressing optimism about a trade deal.
 
 On Sunday, February 24, Trump announces that he will extend the March 1 trade deal truce deadline, citing progress in trade talks. Trump does not give a concrete date for a new deadline, but expresses hope that Xi will visit Trump’s Mar-a-Lago resort in Florida in March to finalize a trade deal."
-"February 11, 2019","US and China hold trade talks in Beijing",Both,5,"
+18,"February 11, 2019",US and China hold trade talks in Beijing,Both,5,"
 The US and China hold trade talks in Beijing. On Friday, February 15, Xi meets with the top negotiators from the US, in what is widely interpreted as a goodwill gesture. At the end of negotiations, the US and China continue to have differences, but agree to keep talking in Washington the following week."
-"February 7, 2019","Trump says he will not meet with Xi before trade deal deadline",US,5,"
+19,"February 7, 2019",Trump says he will not meet with Xi before trade deal deadline,US,5,"
 Trump says that he will not meet with Xi in-person before the tariff ceasefire expires on March 1, 2019. Previously, on January 31, Trump said that he would meet with Xi in-person in February."
-"January 30, 2019","US and China hold 2-day trade talks in Washington D.C.",Both,5,"
+20,"January 30, 2019",US and China hold 2-day trade talks in Washington D.C.,Both,5,"
 The US and China hold in-person talks in Washington D.C., with Liu He leading China’s trade delegation. During the negotiations, China offers to buy five million tons of US soybeans. Trump announces that he will meet with Xi in-person in February."
-"January 22, 2019","US cancels preparatory talks with China",US,5,"
+21,"January 22, 2019",US cancels preparatory talks with China,US,5,"
 The US White House reportedly cancel a trade planning meeting with two Chinese vice ministers ahead of trade talks to be held in Washington D.C. US officials cited disagreements over the enforcement of IP rules as the reason for the cancellation."
-"January 7, 2019","US and China engage in 3-day trade talks in Beijing",Both,5,"
+22,"January 7, 2019",US and China engage in 3-day trade talks in Beijing,Both,5,"
 On January 7, official delegations from US and China began trade talks, which were held in Beijing – the first face-to-face meeting since agreeing to a 90-day truce, which ends March 1.
 Related News
 
@@ -89,7 +89,7 @@ After the talks, China’s Commerce Ministry issued a statement that the talks w
 The USTR issued a statement announcing China’s pledge to purchase a “substantial amount of agricultural, energy, manufactured goods, and other products and services from the US”, but noted that several outstanding issues remain. The official statement can be found here.
 
 Both sides have agreed to continue to keep in close contact."
-"December 14, 2018","China to temporarily lower tariffs on US autos; resumes buying US soybean exports",Both,5,"
+23,"December 14, 2018",China to temporarily lower tariffs on US autos; resumes buying US soybean exports,Both,5,"
 China’s Ministry of Finance announces that it will temporarily remove additional 25 percent tariffs on US autos and five percent tariffs on certain US auto parts for three months, beginning on January 1, 2019.
 
 During this period, US auto imports will be subject to China’s standard 15 percent tariff rate on foreign autos.
@@ -99,7 +99,7 @@ The suspension of these tariffs will affect 144 auto products as well as 67 auto
 China also resumes its purchase of US-soybeans, with reports showing that a large purchase of 1.5 million tons of beans was made.
 
 In July 2018, China stopped purchasing US-produced soybeans in retaliation to US-tariffs on Chinese imports, marking the beginnings of the trade war as we know it."
-"December 2, 2018","US and China agree to temporary truce",Both,5,"
+24,"December 2, 2018",US and China agree to temporary truce,Both,5,"
 The US and China agree to a temporary truce to de-escalate trade tensions, following a working dinner at the G20 Summit in Buenos Aires on December 1, 2018. According to the agreement, both the US and China will refrain from increasing tariffs or imposing new tariffs for 90 days (until March 1, 2019), as the two sides work towards a larger trade deal.
 
 More specifically, the US will refrain from increasing the tariffs described in List 3 that were slated to increase from 10 percent to 25 percent on January 1, 2019, and will not impose previously threatened tariffs on an additional US$267 worth of Chinese goods. For its part, China will purchase more US products – especially agricultural and energy products – and will crack down on the production and distribution of Fentanyl, a synthetic opioid produced primarily in China.
@@ -107,44 +107,44 @@ More specifically, the US will refrain from increasing the tariffs described in 
 The official US statement can be found here.
 
 The official Chinese statement can be found here."
-"November 19, 2018","US releases list of proposed export controls on emerging technologies",US,5,"
+25,"November 19, 2018",US releases list of proposed export controls on emerging technologies,US,5,"
 The US Bureau of Industry and Security (BIS) publishes proposed export control rules on emerging technologies for public comment. According to the proposed rules, emerging technologies such as artificial intelligence (AI), robotics, and quantum computing could be subject to export controls because they are dual-use technologies that could be used for military purposes. The rules do not specify China, but are widely considered by observers to be related to US efforts to prevent China from acquiring sensitive technologies."
-"November 9, 2018","US and China resume trade talks",Both,5,"The US and China reportedly resume trade talks, via a phone call between US Treasury Secretary Steve Mnuchin and Chinese Vice Premier Liu He. According to the report, the two sides discussed a framework for a trade deal, or at least a “ceasefire” to reduce tensions."
-"October 30, 2018","US reportedly prepared to announce tariffs on remaining Chinese products",Both,5,"
+26,"November 9, 2018",US and China resume trade talks,Both,5,"The US and China reportedly resume trade talks, via a phone call between US Treasury Secretary Steve Mnuchin and Chinese Vice Premier Liu He. According to the report, the two sides discussed a framework for a trade deal, or at least a “ceasefire” to reduce tensions."
+27,"October 30, 2018",US reportedly prepared to announce tariffs on remaining Chinese products,Both,5,"
 The US is reportedly prepared to announce tariffs on all remaining Chinese products by early December if talks between Trump and Xi at the G20 in Argentina are not successful. Based off trade figures from 2017, that would mean new tariffs on about US$257 worth of Chinese goods. If announced in early December, the tariffs would likely take effect in February 2019."
-"October 25, 2018","US and China officials resume contact",Both,5,"
+28,"October 25, 2018",US and China officials resume contact,Both,5,"
 US and China working-level officials reportedly resume contact after weeks of silence. The officials are reportedly preparing for Trump and Xi to meet on the sidelines of November’s G20 meetings in Argentina."
-"September 24, 2018","US and China implement third round of tariffs",Both,5,"
+29,"September 24, 2018",US and China implement third round of tariffs,Both,5,"
 US: The US implements tariffs on US$200 billion worth of Chinese goods (List 3), bringing the total amount to US$250 billion. The tariffs carry an initial rate of 10 percent, and will be increased to 25 percent by January 1, 2019. The full and finalized List 3 can be found here.
 
 CN: China responds to US tariffs by implementing tariffs on US$60 billion worth of US goods (List 3). List 3, originally published on August 3, can be found here, but with updated tariff rates of either five percent or 10 percent, as announced here.
 
 China also released a White Paper, laying out the government’s official position on the US-China trade relationship. The White Paper can be accessed here."
-"September 22, 2018","China cancels trade talks with US",China,5,"China cancels trade talks planned with the US ahead of the impending implementation of US tariffs on US$200 billion worth of Chinese goods (List 3)."
-"September 18, 2018","China announces retaliation for US tariffs",China,5,"
+30,"September 22, 2018",China cancels trade talks with US,China,5,China cancels trade talks planned with the US ahead of the impending implementation of US tariffs on US$200 billion worth of Chinese goods (List 3).
+31,"September 18, 2018",China announces retaliation for US tariffs,China,5,"
 China announces that it will implement tariffs on US$60 billion worth of US goods (List 3) after the latest round of tariffs from the US (worth US$200 billion) go into effect on September 24."
-"September 17, 2018","US finalizes tariffs on US$200 billion of Chinese goods",US,5,"
+32,"September 17, 2018",US finalizes tariffs on US$200 billion of Chinese goods,US,5,"
 The USTR announces the finalized list of tariffs on US$200 billion worth of Chinese goods (List 3). The US says that the tariffs will go into effect on September 24 at an initial rate of 10 percent, to be increased to 25 percent by January 1, 2019. The full and finalized List 3 can be found here."
-"September 12, 2018","US invites China to re-open negotiations",Both,5,"
+33,"September 12, 2018",US invites China to re-open negotiations,Both,5,"
 The White House’s top economic advisor, Larry Kudlow, says that the US has invited China to restart trade negotiations before tariffs on US$200 billion worth of Chinese goods (List 3) go into effect."
-"September 7, 2018","Trump threatens new tariffs",US,5,"
+34,"September 7, 2018",Trump threatens new tariffs,US,5,"
 After the public comment period for List 3 of US tariffs on Chinese products ended on September 6, 2018, Trump threatens to impose tariffs on US$267 billion more. That would bring the total amount of tariffs threatened or imposed by the US on China to US$517 billion, accounting for essentially all Chinese exports to the US. In 2017, the US imported US$505 billion worth of products from China."
-"August 23, 2018","US and China implement second round of tariffs, China files second WTO complaint",Both,5,"
+35,"August 23, 2018","US and China implement second round of tariffs, China files second WTO complaint",Both,5,"
 US: US implements a 25 percent tariff on 279 goods originating from China (worth US$16 billion). Goods targeted include: semiconductors, chemicals, plastics, motorbikes and electric scooters. The full and finalized List 2 can be found here.
 
 CN: China implements retaliatory 25 percent tariffs on 333 goods originating from the US (worth US$16 billion), including commodities such as: coal, copper scrap, fuel, buses and medical equipment. The full and finalized List 2 can be found here.
 
 China also files a new WTO complaint against the United States’ Section 301 tariffs on Chinese goods issued on August 23 under List 2 (25 percent tariffs on US$16 billion)."
-"August 22, 2018","US-China dialogue",Both,5,"US and Chinese mid-level representatives meet for the first time since early in the trade war. US Treasury Under Secretary David Malpass and Chinese Commerce Vice Minister Wang Shouwen met in Washington DC to discuss ways to resolve the deepening trade conflict and escalating tariffs. Discussions end with no major breakthroughs."
-"August 14, 2018","China files WTO claim against US",Both,5,"
+36,"August 22, 2018",US-China dialogue,Both,5,US and Chinese mid-level representatives meet for the first time since early in the trade war. US Treasury Under Secretary David Malpass and Chinese Commerce Vice Minister Wang Shouwen met in Washington DC to discuss ways to resolve the deepening trade conflict and escalating tariffs. Discussions end with no major breakthroughs.
+37,"August 14, 2018",China files WTO claim against US,Both,5,"
 The Chinese Ministry of Commerce announces that a formal case has been lodged at the WTO against the US for its tariffs on solar panels, alleging that US tariffs have damaged China’s trade interests."
-"August 7, 2018","Second round of tariffs finalized and released",Both,5,"
+38,"August 7, 2018",Second round of tariffs finalized and released,Both,5,"
 US: US releases a revised version of tariffs on a final list of US$16 billion worth of imports from China (List 2). Set to take effect August 23, List 2 announces that the US$16 billion of imports will now be subject to a 25 percent tariff rather than previously announced 10 percent.
 
 Five of the 284 items in the original list published on June 15 were removed, these being: alginic acid, splitting machines, containers, floating docks, and microtomes (collectively worth US$400 million in 2017).
 
 CN: China’s Ministry of Commerce announces a reciprocal 25 percent additional tariff on US$16 billion of US exports to China, effective August 23, 2018. The tentative List 2 can be found here."
-"August 3, 2018","China announces second round of tariffs on US products",China,5,"In response to potential US tariffs on US$200 billion worth of products announced on August 1, 2018 (List 3), China’s Ministry of Commerce proposes a range of additional tariffs on 5,207 products originating from the US (worth US$60 billion), including the following:
+39,"August 3, 2018",China announces second round of tariffs on US products,China,5,"In response to potential US tariffs on US$200 billion worth of products announced on August 1, 2018 (List 3), China’s Ministry of Commerce proposes a range of additional tariffs on 5,207 products originating from the US (worth US$60 billion), including the following:
 
     25 percent on 2,493 products (agricultural, products, foods, textiles and products, chemicals, metal products, machinery);
     20 percent on 1,078 products (foods, paperboard, chemicals works of art);
@@ -152,12 +152,11 @@ CN: China’s Ministry of Commerce announces a reciprocal 25 percent additional 
     5 percent on 662 products (chemicals, machinery, medical equipment).
 
 The tentative List 3 can be found here."
-"August 2, 2018","US tariffs revisions (US$200 billion)",Both,5,"The USTR, at the direction of Trump, considers a 25 percent tariff rather than a 10 percent one on List 3, which was originally announced on July 10, 2018. The list targets approximately US$200 billion worth of goods and includes categories such as: consumer products, chemical and construction materials, textiles, tools, food and agricultural products, commercial electronic equipment and vehicle/automotive parts.
+40,"August 2, 2018",US tariffs revisions (US$200 billion),Both,5,"The USTR, at the direction of Trump, considers a 25 percent tariff rather than a 10 percent one on List 3, which was originally announced on July 10, 2018. The list targets approximately US$200 billion worth of goods and includes categories such as: consumer products, chemical and construction materials, textiles, tools, food and agricultural products, commercial electronic equipment and vehicle/automotive parts.
 
 The US Department of Commerce also adds 44 Chinese entities to its export control list that pose a “significant risk” to US national security."
-"July 10, 2018","US releases second tariff list",Both,5,"US:  The USTR releases a third list of tariffs (List 3) of over 6,000 commodities originating in China (worth US$200 billion), which will be subject to a 10 percent tariff."
-
-"July 6, 2018","US implements first China-specific tariffs",Both,5,"US: The US Customs and Border Protection (CBP) begins collecting a 25 percent tariff on 818 imported Chinese products (List 1) valued at US$34 billion – giving effect to the first round of tariffs, which were revised and announced on June 15, 2018.
+41,"July 10, 2018",US releases second tariff list,Both,5,"US:  The USTR releases a third list of tariffs (List 3) of over 6,000 commodities originating in China (worth US$200 billion), which will be subject to a 10 percent tariff."
+42,"July 6, 2018",US implements first China-specific tariffs,Both,5,"US: The US Customs and Border Protection (CBP) begins collecting a 25 percent tariff on 818 imported Chinese products (List 1) valued at US$34 billion – giving effect to the first round of tariffs, which were revised and announced on June 15, 2018.
 Related services
 
     Regulatory Monitoring
@@ -165,49 +164,49 @@ Related services
 Meanwhile, the second round of tariffs discussed in List 2 is under review, which proposes implementing a 25 percent tariff on 284 Chinese products (worth US$16 billion). Commodities targeted in this round of tariffs include: iron or steel products, electrical machinery, railway products, instruments and apparatus.
 
 CN: China takes retaliatory measures by imposing a 25 percent tariff on 545 goods originating from the US (worth US$34 billion), including agricultural products, automobiles and aquatic products. The full and finalized List 1 can be found here."
-"June 16, 2018","China revises its initial tariff list (25 percent on 106 products) to now include a 25 percent tariff on 545 products (valued at US$34 billion). This tariff will take effect July 6, 2018. China also proposes a second round of 25 percent tariffs on a further 114 products (valued at US$16 billion).",China,5,
-"June 15, 2018","Initial list of products reduced and finalized. List 1 now implements a 25 percent tariff on a reduced 818 products (from 1,334) and is set to take effect on July 6, 2018. List 2 of 284 new products is also announced and under consideration.",China,5,
-"June 7, 2018","US and ZTE agree to deal that will allow ZTE to resume business.",US,5,
-"June 4, 2018","Two days of trade talks between US and China held in Beijing.",US,5,
-"May 29, 2018","US reinstates tariff plans after brief truce.",US,5,
-"May 20, 2018","US and China agree to put the trade war on hold after China reportedly agrees to buy more US goods.",US,5,
-"May 18, 2018","China’s Commerce Ministry announces that it will stop tariffs on US sorghum at negotiations.",China,5,
-"May 13, 2018","Trump promises to help ZTE in a tweet.",US,5,
-"May 3, 2018","US-China engage in trade talks in Beijing, where the US demands that China reduce the trade gap by US$200 billion within two years. Talks end with no resolution.",US,5,
-"April 17, 2018","China announces antidumping duties of 178.6 percent on imports of sorghum from the US.",China,5,
-"April 16, 2018","US Department of Commerce concludes that Chinese telecom company ZTE violated US sanctions.<br>US companies are banned from doing business with ZTE for seven years.",US,5,
-"April 4, 2018","China reacts to USTR’s initial list, and proposes 25 percent tariffs to be applied on 106 products (worth US$50 billion) on goods such as soybeans, automobile, chemicals (list revised on June 16).",China,5,
-"April 3, 2018","The USTR releases an initial list of 1,334 proposed products (worth US$50 billion) subject to a potential 25 percent tariff (list revised June 15).",US,5,
-"April 2, 2018","China imposes tariffs (ranging 15-25 percent) on 128 products (worth US$3 billion) including fruit, wine, seamless steel pipes, pork and recycled aluminium in retaliation to the US’ steel and aluminium tariffs.",China,5,
-"March 23, 2018","US imposes a 25 percent tariff on all steel imports (except from Argentina, Australia, Brazil, and South Korea) and a 10 percent tariff on all aluminium imports (except from Argentina and Australia).",US,5,
-"March 22, 2018","Trump signs a memorandum directing the following acts:
+43,"June 16, 2018","China revises its initial tariff list (25 percent on 106 products) to now include a 25 percent tariff on 545 products (valued at US$34 billion). This tariff will take effect July 6, 2018. China also proposes a second round of 25 percent tariffs on a further 114 products (valued at US$16 billion).",China,5,
+44,"June 15, 2018","Initial list of products reduced and finalized. List 1 now implements a 25 percent tariff on a reduced 818 products (from 1,334) and is set to take effect on July 6, 2018. List 2 of 284 new products is also announced and under consideration.",China,5,
+45,"June 7, 2018",US and ZTE agree to deal that will allow ZTE to resume business.,US,5,
+46,"June 4, 2018",Two days of trade talks between US and China held in Beijing.,US,5,
+47,"May 29, 2018",US reinstates tariff plans after brief truce.,US,5,
+48,"May 20, 2018",US and China agree to put the trade war on hold after China reportedly agrees to buy more US goods.,US,5,
+49,"May 18, 2018",China’s Commerce Ministry announces that it will stop tariffs on US sorghum at negotiations.,China,5,
+50,"May 13, 2018",Trump promises to help ZTE in a tweet.,US,5,
+51,"May 3, 2018","US-China engage in trade talks in Beijing, where the US demands that China reduce the trade gap by US$200 billion within two years. Talks end with no resolution.",US,5,
+52,"April 17, 2018",China announces antidumping duties of 178.6 percent on imports of sorghum from the US.,China,5,
+53,"April 16, 2018",US Department of Commerce concludes that Chinese telecom company ZTE violated US sanctions.<br>US companies are banned from doing business with ZTE for seven years.,US,5,
+54,"April 4, 2018","China reacts to USTR’s initial list, and proposes 25 percent tariffs to be applied on 106 products (worth US$50 billion) on goods such as soybeans, automobile, chemicals (list revised on June 16).",China,5,
+55,"April 3, 2018","The USTR releases an initial list of 1,334 proposed products (worth US$50 billion) subject to a potential 25 percent tariff (list revised June 15).",US,5,
+56,"April 2, 2018","China imposes tariffs (ranging 15-25 percent) on 128 products (worth US$3 billion) including fruit, wine, seamless steel pipes, pork and recycled aluminium in retaliation to the US’ steel and aluminium tariffs.",China,5,
+57,"March 23, 2018","US imposes a 25 percent tariff on all steel imports (except from Argentina, Australia, Brazil, and South Korea) and a 10 percent tariff on all aluminium imports (except from Argentina and Australia).",US,5,
+58,"March 22, 2018","Trump signs a memorandum directing the following acts:
 
     To file a WTO case against China for their discriminatory licensing practices;
     To restrict investment in key technology sectors; and
     To impose tariffs on Chinese products (such as aerospace, information communication technology and machinery).",US,5,
-"February 7, 2018","The US implements ‘global safeguard tariffs’ – placing a 30 percent tariff on all solar panel imports, except for those from Canada, (worth US$8.5 billion) and a 20 percent tariff on washing machine imports (worth US$1.8 billion).",US,5,
-"November 8, 2017","Trump pays a “state visit plus” to China, where relations were considered to have warmed.",US,5,
-"August 18, 2017","The USTR initiates an investigation into certain acts, policies and practices of the Chinese government relating to technology transfer, intellectual property and innovation.",US,5,
-"May 22, 2017","US and China agree to a trade deal that would give US firms greater access to China’s agriculture, energy, and financial markets, while China gains access to sell cooked poultry to the US.",US,5,
-"April 28, 2017","The USTR is authorized to investigate whether steel/aluminium imports pose a threat to national security.",US,5,
-"April 6, 2017","Xi visits Trump’s Mar-a-Lago estate in Florida, where they agree to set up a 100 Day Action Plan to resolve trade differences.",China,5,
-"May 2, 2016","While campaigning for the Republican Party’s presidential nomination, Trump says “We can’t continue to allow China to rape our country and that’s what they’re doing. It’s the greatest theft in the history of the world.” The statement is one of many that Trump makes on the campaign trail about China’s trade practices.",US,5,
-"June 19, 2019","Apple considers moving 15% to 30% of production capacity out of China: report","Industry",5,"https://archive.li/7RiVt"
-"July 3, 2019","HP, Dell and Microsoft look to join electronics exodus from China","Industry",5,"Global consumer electronics makers HP, Dell, Microsoft and Amazon are all looking to shift substantial production capacity out of China, joining a growing exodus that threatens to undermine the country's position as the world's powerhouse for tech gadgets."
-"July 18, 2019","China scrambles to stem manufacturing exodus as 50 companies leave To counter tariff blow, government eases restrictions and offers perks","Industry",5,"https://web.archive.org/web/20190720035001/https://asia.nikkei.com/Economy/Trade-war/China-scrambles-to-stem-manufacturing-exodus-as-50-companies-leave"
-"July 25, 2019","High level trade talks to begin in Shanghai next week",Both,5,"According to media reports, US and China will begin high-level trade talks in Shanghai starting next Tuesday, July 30.
+59,"February 7, 2018","The US implements ‘global safeguard tariffs’ – placing a 30 percent tariff on all solar panel imports, except for those from Canada, (worth US$8.5 billion) and a 20 percent tariff on washing machine imports (worth US$1.8 billion).",US,5,
+60,"November 8, 2017","Trump pays a “state visit plus” to China, where relations were considered to have warmed.",US,5,
+61,"August 18, 2017","The USTR initiates an investigation into certain acts, policies and practices of the Chinese government relating to technology transfer, intellectual property and innovation.",US,5,
+62,"May 22, 2017","US and China agree to a trade deal that would give US firms greater access to China’s agriculture, energy, and financial markets, while China gains access to sell cooked poultry to the US.",US,5,
+63,"April 28, 2017",The USTR is authorized to investigate whether steel/aluminium imports pose a threat to national security.,US,5,
+64,"April 6, 2017","Xi visits Trump’s Mar-a-Lago estate in Florida, where they agree to set up a 100 Day Action Plan to resolve trade differences.",China,5,
+65,"May 2, 2016","While campaigning for the Republican Party’s presidential nomination, Trump says “We can’t continue to allow China to rape our country and that’s what they’re doing. It’s the greatest theft in the history of the world.” The statement is one of many that Trump makes on the campaign trail about China’s trade practices.",US,5,
+66,"June 19, 2019",Apple considers moving 15% to 30% of production capacity out of China: report,Industry,5,https://archive.li/7RiVt
+67,"July 3, 2019","HP, Dell and Microsoft look to join electronics exodus from China",Industry,5,"Global consumer electronics makers HP, Dell, Microsoft and Amazon are all looking to shift substantial production capacity out of China, joining a growing exodus that threatens to undermine the country's position as the world's powerhouse for tech gadgets."
+68,"July 18, 2019","China scrambles to stem manufacturing exodus as 50 companies leave To counter tariff blow, government eases restrictions and offers perks",Industry,5,https://web.archive.org/web/20190720035001/https://asia.nikkei.com/Economy/Trade-war/China-scrambles-to-stem-manufacturing-exodus-as-50-companies-leave
+69,"July 25, 2019",High level trade talks to begin in Shanghai next week,Both,5,"According to media reports, US and China will begin high-level trade talks in Shanghai starting next Tuesday, July 30.
 US Treasury Secretary Steven Mnuchin, Trade Representative Robert Lighthizer and Chinese Vice Premier Liu He are confirmed to attend.
 This will be the first time the top negotiators meet face-to-face since Xi and Trump agreed to restart trade talks in late June. As it stands, both Beijing and Washington remain far apart on the terms of any deal."
-"July 16, 2019","Trump threatens tariffs on US$325 billion of Chinese goods (despite promises not to), new member on China’s negotiating team",Both,5,"President Trump once again threatens to slap tariffs on another US$325 billion of Chinese goods, despite promises not to following the truce after the G20 Summit, only two weeks prior.
+70,"July 16, 2019","Trump threatens tariffs on US$325 billion of Chinese goods (despite promises not to), new member on China’s negotiating team",Both,5,"President Trump once again threatens to slap tariffs on another US$325 billion of Chinese goods, despite promises not to following the truce after the G20 Summit, only two weeks prior.
 Meanwhile, China suddenly adds a new member to its negotiating team — commerce minister, Zhong Shan — viewed as a hardliner by many officials in Washington. Zhong was present at last month’s G20 summit and took part in a telephone conversation with US representatives last week."
-"July 9, 2019","US exempts 110 Chinese products from 25 percent tariffs, issues licenses to American Huawei suppliers",US,5,"
+71,"July 9, 2019","US exempts 110 Chinese products from 25 percent tariffs, issues licenses to American Huawei suppliers",US,5,"
 The Trump Administration announces that it will exempt 110 Chinese products, including medical equipment for cancer, from the 25 percent tariffs that were added on July 6, 2018. The exemption will be valid for a year from July 9, 2019.
 Further, Commerce Secretary Wilbur Ross said that the US government will issue licenses to companies seeking to sell goods to Huawei where there is no security threat. Ross confirmed that Huawei would remain on the Entity List, meaning winning licenses would require overcoming a presumption of denial, and said the scope of items requiring licenses would not change."
-"July 26, 2019","Trump Presses World Trade Organization on China",US,5,"The Trump administration on Friday escalated pressure on the World Trade Organization, giving the international group a 90-day ultimatum to alter a provision that the United States argues has long allowed China to game the global trading rules."
-"August 26, 2019","Liu calls for calm, Trump says talks will proceed",China,5,"According to Caixin, China’s top trade negotiator Vice Premier Liu He called for calm amid the recent escalation of trade war threats. Liu reportedly told an audience that China “firmly opposes” the recent escalation of the trade war. Liu also said the escalation of the trade war was “against the interest of China, the US, and the entire world”.
+72,"July 26, 2019",Trump Presses World Trade Organization on China,US,5,"The Trump administration on Friday escalated pressure on the World Trade Organization, giving the international group a 90-day ultimatum to alter a provision that the United States argues has long allowed China to game the global trading rules."
+73,"August 26, 2019","Liu calls for calm, Trump says talks will proceed",China,5,"According to Caixin, China’s top trade negotiator Vice Premier Liu He called for calm amid the recent escalation of trade war threats. Liu reportedly told an audience that China “firmly opposes” the recent escalation of the trade war. Liu also said the escalation of the trade war was “against the interest of China, the US, and the entire world”.
 US President Donald Trump later told the media, “China called last night our trade people and said, ‘let’s get back to the table’, so we’ll be getting back to the table, and I think they want to do something”."
-"August 25, 2019","Trump, White House make contradictory statements",US,5,"US President Donald Trump told the media he was having “second thoughts” about the tariffs he had levied against China. Later, a White House spokesperson said that the only regret Trump had was that he had not imposed higher tariffs on China."
-"August 23, 2019","China announces US$75 billion in tariffs on US goods, Trump threatens tariff increases on Chinese goods",Both,5,"The Customs Tariff Commission of China’s State Council announced US$75 billion in tariffs on US goods. Five and 10 percent tariffs will be imposed on 5,078 US goods in two batches, from September 1 (list 1) and December 15, 2019 (list 2), respectively.
+74,"August 25, 2019","Trump, White House make contradictory statements",US,5,"US President Donald Trump told the media he was having “second thoughts” about the tariffs he had levied against China. Later, a White House spokesperson said that the only regret Trump had was that he had not imposed higher tariffs on China."
+75,"August 23, 2019","China announces US$75 billion in tariffs on US goods, Trump threatens tariff increases on Chinese goods",Both,5,"The Customs Tariff Commission of China’s State Council announced US$75 billion in tariffs on US goods. Five and 10 percent tariffs will be imposed on 5,078 US goods in two batches, from September 1 (list 1) and December 15, 2019 (list 2), respectively.
 Later on the same day, the State Council approved to reinstate Chinese tariffs on US automotive and auto parts starting December 15, 2019. The five and 25 percent Chinese tariffs on US automotive and auto parts had been exempted since January 1, 2019.
 The first batch of US goods that will be affected from September 1 are organized in four parts:
     Part 1 includes 270 agriculture products that will be subject to a 10 percent tariff;
@@ -222,22 +221,37 @@ The second batch of US goods that will be affected from December 15 are also org
 China’s retaliatory tariff on US$75 billion worth of US goods was released after the USTR announcement of tariffs on August 13 on US$300 billion worth of Chinese goods – scheduled to begin on September 1 (list 4A) and December 15 (list 4B).
 US President Trump reacted to the August 23 announcement on Twitter, stating, “American companies are hereby ordered to immediately start looking for an alternative to China”. Subsequent reports indicated that this threat was based on a controversial interpretation of the US’ International Emergency Powers Economic Act (IEPA) from 1977.
 Later, Trump tweeted that the US would increase tariffs on US$300 billion worth of Chinese imports that was being tariffed from September 1. And from October 1, 2019, US tariffs on the remaining US$250 billion of Chinese goods would be increased from 25 to 30 percent."
-"August 13, 2019","US and China agree to talk again in two weeks",Both,5,"China’s Commerce Ministry states that US and China have agreed to restart talks on the phone in two weeks. This is expected to happen just days before September 1 – when the additional tariff is to come into force.
+76,"August 13, 2019",US and China agree to talk again in two weeks,Both,5,"China’s Commerce Ministry states that US and China have agreed to restart talks on the phone in two weeks. This is expected to happen just days before September 1 – when the additional tariff is to come into force.
 The statement was made after Chinese Vice Premier Liu He spoke with US Trade Representative Robert Lighthizer and Secretary of the Treasury Steven Mnuchin over the phone on August 13.
 China’s Commerce Minister Zhong Shan, Central Bank governor Yi Gang, and Deputy Director of the NDRC Ning Jizhe are confirmed to attend the next scheduled call."
-"August 13, 2019","US delays tariffs on certain products and removes items from the list",US,5,"The USTR announced it is delaying the imposition of additional tariffs on certain Chinese imports to December 15. A 10 percent tariff on a host of Chinese products is still to come into effect on September 1.
+77,"August 13, 2019",US delays tariffs on certain products and removes items from the list,US,5,"The USTR announced it is delaying the imposition of additional tariffs on certain Chinese imports to December 15. A 10 percent tariff on a host of Chinese products is still to come into effect on September 1.
 The delayed tariffs would have affected the cost of items of mass consumption, including cell phones, laptops, video game consoles, computer monitors, certain items of footwear and clothing, and certain toys.
 Besides delaying tariffs on some goods, the USTR is removing certain products from the scope of additional tariffs, citing “health, safety, national security” factors. An exclusion process for these products will be conducted, according to the USTR."
-"August 6, 2019","Chinese companies suspend new US agricultural product purchases",China,5,"According to a statement issued by the Ministry of Commerce on August 6, certain Chinese companies have suspended purchasing US agricultural products.
+78,"August 6, 2019",Chinese companies suspend new US agricultural product purchases,China,5,"According to a statement issued by the Ministry of Commerce on August 6, certain Chinese companies have suspended purchasing US agricultural products.
 The statement also makes clear that the Customs Tariff Commission of the State Council will not rule out import tariffs on newly purchased US agricultural products after August 3. As a result, some Chinese companies have decided to suspend such imports."
-"August 6, 2019","US declares China is a currency manipulator",US,5,"The US Treasury declares China to be a currency manipulator, after the yuan sunk to 7 against the US dollar – its lowest level in 11 years – in apparent retaliation to the new punitive tariffs threatened to apply on the remainder of Chinese imports.
+79,"August 6, 2019",US declares China is a currency manipulator,US,5,"The US Treasury declares China to be a currency manipulator, after the yuan sunk to 7 against the US dollar – its lowest level in 11 years – in apparent retaliation to the new punitive tariffs threatened to apply on the remainder of Chinese imports.
 The declaration accuses China of manipulating its currency “to gain unfair competitive advantage in international trade,” and states that the US Treasury Secretary will engage with the International Monetary Fund to eliminate the advantages created by China’s latest actions
 Not surprisingly, the People’s Bank of China has refuted these claims in a strongly worded statement, maintaining that “China has never used and will not use the RMB exchange rate as a tool to deal with the trade frictions” and that “changes to the RMB exchange rate is determined by market supply and demand.”"
-"August 1, 2019","Trump says US will impose 10 percent tariffs on another US$300 billion of Chinese goods starting September 1",US,5,"“The U.S. will start, on September 1st, putting a small additional Tariff of 10% on the remaining 300 Billion Dollars of goods and products coming from China into our Country,” said Trump in a tweet.
+80,"August 1, 2019",Trump says US will impose 10 percent tariffs on another US$300 billion of Chinese goods starting September 1,US,5,"“The U.S. will start, on September 1st, putting a small additional Tariff of 10% on the remaining 300 Billion Dollars of goods and products coming from China into our Country,” said Trump in a tweet.
 The surprise tariff announcement comes after the US and China ended trade talks in Shanghai just the day before. Following the meeting, the White House described the discussions as “constructive,” adding that China confirmed their commitment to increase purchases of US agricultural exports.
 If imposed, this round tariffs will affect nearly all China’s imports to the US, including electronic and clothing consumer goods.
 Trump also threatened to raise tariffs to as much as 25 percent on US$250 billion worth of goods if China fails to move more quickly to reach a trade deal."
-"July 30-31, 2019","Shanghai trade talks end with little progress being made",Both,5,"US Trade Representative Robert Lighthizer, Treasury Secretary Steven Mnuchin and Chinese Vice Premier Liu He met in Shanghai for two-day trade talks. This is the first face-to-face interaction since Xi and Trump met at the G20 Summit in June, and the first official high-level negotiation since May, this year.
+81,"July 30-31, 2019",Shanghai trade talks end with little progress being made,Both,5,"US Trade Representative Robert Lighthizer, Treasury Secretary Steven Mnuchin and Chinese Vice Premier Liu He met in Shanghai for two-day trade talks. This is the first face-to-face interaction since Xi and Trump met at the G20 Summit in June, and the first official high-level negotiation since May, this year.
 As most analysts predicted, the talks ended with little progress. Both sides agreed to keep talking and will meet again in September.
 The talks centered around goodwill gestures, such as Chinese commitments to purchase US soybeans, pork, ethanol, and other agricultural commodities, and the US’ promise to ease sanctions on Chinese telecoms equipment giant Huawei Technologies Co Ltd.
 The White House released a statement confirming China’s commitment to increase purchases of US agricultural exports, though no details were provided. China, also confirmed the discussion of procuring US agricultural products, but did not specify as to whether an agreement was made."
+82,2019-11-07,US and China Talk Tariff Rollback,Both,5,
+83,2019-09-02,China lodges WTO tariff case against the US,China,5,
+84,2019-09-13,China exempts various agricultural products from additional tariffs,China,5,
+85,2019-11-26,US releases new regulatory guidelines for its telecom networks  procedure to protect telecom networks from national security threats,US,5,
+86,2019-09-11,China unveils tariff exemption list for US imports,China,5,
+87,2019-09-20,"US releases new tariff exemption lists, which exempt over 400 Chinese goods from tariffs",US,5,
+88,2019-09-19,US-China mid-level trade talks in Washington,Both,5,
+89,2019-10-11,"US announces “Phase 1” deal, delays tariff increase for Chinese goods",US,5,
+90,2019-10-18,US tariff exclusion process for US$300 billion of Chinese imports,US,5,
+91,2019-11-01,"US, China negotiators talk over phone, agree on trade points “in principle”",Both,5,
+92,2019-11-01,"China wins WTO case, able to sanction US$3.6 billion worth US imports",China,5,
+93,2019-12-13,China releases second set of US products to be excluded from additional tariffs,China,5,
+94,2019-12-13,"US, China agree to ‘phase one deal’ just before next tariff hike",Both,5,
+95,2019-09-05,China and US agree to 13th round of trade talks,Both,4,
+96,2019-09-01,Tariffs come in force as scheduled,Both,5,

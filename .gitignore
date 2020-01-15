@@ -1,0 +1,12 @@
+_site
+.DS_Store
+.jekyll
+.jekyll-metadata
+.jekyll-cache
+.bundle
+.sass-cache
+node_modules
+package.json
+Gemfile.lock
+*.py
+*.ipynb
